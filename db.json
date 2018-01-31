@@ -2,7 +2,7 @@
 	"wm_watch": [{
 			"watch_id": 1,
 			"company_id": 1,
-			"url": "http://google.com",
+			"url": "https://google.com/",
 			"type": "portfolio",
 			"interval": 1,
 			"threshold": 10,
@@ -17,9 +17,9 @@
 			"state": "enabled"
 		},
 		{
-			"watch_id": 1,
-			"company_id": 1,
-			"url": "http://bing.com",
+			"watch_id": 2,
+			"company_id": 2,
+			"url": "https://www.yahoo.com/",
 			"type": "portfolio",
 			"interval": 7,
 			"threshold": 25,
