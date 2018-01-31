@@ -1,0 +1,38 @@
+{
+	"wm_watch": [{
+			"watch_id": 1,
+			"company_id": 1,
+			"url": "http://google.com",
+			"type": "portfolio",
+			"interval": 1,
+			"threshold": 10,
+			"view_width": 1080,
+			"view_height": 0,
+			"view_scroll_top": 0,
+			"view_scroll_left": 0,
+			"view_top": 50,
+			"view_right": 100,
+			"view_bottom": 100,
+			"view_left": 50,
+			"state": "enabled"
+		},
+		{
+			"watch_id": 1,
+			"company_id": 1,
+			"url": "http://bing.com",
+			"type": "portfolio",
+			"interval": 7,
+			"threshold": 25,
+			"view_width": 600,
+			"view_height": 400,
+			"view_scroll_top": 0,
+			"view_scroll_left": 0,
+			"view_top": 50,
+			"view_right": 100,
+			"view_bottom": 100,
+			"view_left": 50,
+			"state": "enabled"
+
+		}
+	]
+}
