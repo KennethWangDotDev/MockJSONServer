@@ -2,7 +2,7 @@
 	"wm_watch": [{
 			"watch_id": 1,
 			"company_id": 1,
-			"url": "https://google.com/",
+			"url": "https://www.google.com/",
 			"type": "portfolio",
 			"interval": 1,
 			"threshold": 10,
