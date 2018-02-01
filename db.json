@@ -1,5 +1,5 @@
 {
-	"wm_watch": [{
+	"watch": [{
 			"watch_id": 1,
 			"company_id": 1,
 			"url": "https://www.google.com/",
@@ -35,7 +35,7 @@
 
 		}
 	],
-	"wm_company": [{
+	"company": [{
 			"company_id": 1,
 			"name": "Google",
 			"domain": "https://www.google.com/"
