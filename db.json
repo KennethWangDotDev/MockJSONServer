@@ -34,5 +34,16 @@
 			"state": "enabled"
 
 		}
+	],
+	"wm_company": [{
+			"company_id": 1,
+			"name": "Google",
+			"domain": "https://www.google.com/"
+		},
+		{
+			"company_id": 2,
+			"name": "Yahoo",
+			"domain": "https://www.yahoo.com/"
+		}
 	]
 }
